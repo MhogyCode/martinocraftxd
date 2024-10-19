@@ -1068,3 +1068,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 18:56:46.571] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
 [19Oct2024 18:56:57.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pierre'/3521, l='ServerLevel[world]', x=-492.70, y=59.11, z=321.70] died: Pierre was slain by martinomascapito
 [19Oct2024 18:57:05.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isabelle'/3518, l='ServerLevel[world]', x=-492.70, y=59.14, z=321.38] died: Isabelle was slain by MhogySanBro
+[19Oct2024 19:02:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[19Oct2024 19:02:42.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Connie'/3511, l='ServerLevel[world]', x=-518.70, y=65.00, z=301.85] died: Connie was slain by MhogySanBro
+[19Oct2024 19:02:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
