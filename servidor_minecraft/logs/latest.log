@@ -1071,3 +1071,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 19:02:03.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
 [19Oct2024 19:02:42.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Connie'/3511, l='ServerLevel[world]', x=-518.70, y=65.00, z=301.85] died: Connie was slain by MhogySanBro
 [19Oct2024 19:02:50.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[19Oct2024 19:20:57.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Kicked MhogySanBro: Kicked by an operator]
+[19Oct2024 19:20:57.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Kicked by an operator
+[19Oct2024 19:20:57.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[19Oct2024 19:21:28.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Gamerule randomTickSpeed is now set to: 30]
+[19Oct2024 19:22:13.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/127.215.122.65:42685] logged in with entity id 19952 at (-514.9753184938298, 64.0, 327.993807263269)
+[19Oct2024 19:22:13.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[19Oct2024 19:24:20.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[19Oct2024 19:27:00.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -512.500000, 64.500000, 323.500000]
+[19Oct2024 19:27:16.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -563.500000, -54.500000, 387.500000]
+[19Oct2024 19:27:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Ice Bucket Challenge]
+[19Oct2024 19:28:05.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -512.500000, 64.500000, 323.500000]
