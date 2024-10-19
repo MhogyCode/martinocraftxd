@@ -1027,3 +1027,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 23:12:58.195] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [19Oct2024 23:13:16.307] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
 [19Oct2024 23:13:58.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[19Oct2024 23:14:16.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2946ms or 58 ticks behind
+[19Oct2024 23:14:26.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Ashes 'n Bones]
+[19Oct2024 23:14:48.094] [Worker-Main-12/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[19Oct2024 23:14:59.710] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Oct2024 23:16:30.726] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chrisgli/gemsnjewels/items/GemType
+[19Oct2024 23:16:41.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has reached the goal [Strong or Careful]
+[19Oct2024 23:16:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro was slain by Zombie
+[19Oct2024 23:16:41.718] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Oct2024 23:16:41.768] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[19Oct2024 23:16:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -984.500000, 70.500000, 229.500000]
+[19Oct2024 23:16:57.642] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[19Oct2024 23:17:04.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[19Oct2024 23:18:32.029] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[19Oct2024 23:19:23.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> chat sucios xd lol jaja
+[19Oct2024 23:19:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> foto pene
+[19Oct2024 23:19:39.117] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Oct2024 23:23:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -601.500000, 75.500000, 312.500000]
