@@ -1099,3 +1099,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 19:45:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
 [19Oct2024 19:47:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [What a Deal!]
 [19Oct2024 19:56:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Ice Bucket Challenge]
+[19Oct2024 20:00:11.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
+[19Oct2024 20:00:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
