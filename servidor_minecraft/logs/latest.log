@@ -1093,3 +1093,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 19:33:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
 [19Oct2024 19:36:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -512.500000, 64.500000, 323.500000]
 [19Oct2024 19:36:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [What a Deal!]
+[19Oct2024 19:39:47.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xaero-waypoint:ARBOLES XD JAJAA:A:-602:75:312:5:false:0:Internal-overworld-waypoints
+[19Oct2024 19:40:58.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 327.500000]
+[19Oct2024 19:45:12.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[19Oct2024 19:45:12.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[19Oct2024 19:47:27.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [What a Deal!]
