@@ -1070,3 +1070,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 17:14:59.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
 [19Oct2024 17:15:18.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Monster Hunter]
 [19Oct2024 17:15:37.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Alex's Mobs]
+[19Oct2024 17:16:15.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[19Oct2024 17:18:11.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito was slain by Spider
+[19Oct2024 17:18:11.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[19Oct2024 17:18:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Your First Grave]
+[19Oct2024 17:18:11.310] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[19Oct2024 17:19:20.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Timed out
+[19Oct2024 17:19:20.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[19Oct2024 17:19:26.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Timed out
+[19Oct2024 17:19:26.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[19Oct2024 17:19:26.421] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Oct2024 17:20:44.320] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[19Oct2024 17:20:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Oct2024 17:20:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Oct2024 17:20:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Oct2024 17:20:44.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld

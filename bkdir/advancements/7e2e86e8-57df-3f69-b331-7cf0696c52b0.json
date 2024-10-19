@@ -248,6 +248,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-10-19 17:01:36 +0000",
+      "minecraft:skeleton": "2024-10-19 17:15:58 +0000",
       "minecraft:zombie": "2024-10-19 17:13:37 +0000"
     },
     "done": false
@@ -555,6 +556,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-10-19 16:59:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-10-19 17:18:11 +0000"
     },
     "done": true
   },
@@ -1033,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-10-19 17:16:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-10-19 17:05:12 +0000"
@@ -1495,6 +1508,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-10-19 16:55:26 +0000",
+      "minecraft:river": "2024-10-19 17:17:59 +0000",
       "minecraft:lush_caves": "2024-10-19 17:02:47 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-19 17:00:22 +0000"
     },
@@ -1515,6 +1529,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-10-19 17:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-10-19 17:15:08 +0000"
     },
     "done": true
   },
@@ -1544,9 +1564,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-10-19 17:15:20 +0000",
       "bread": "2024-10-19 17:11:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-10-19 17:15:08 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
@@ -1587,6 +1614,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-10-19 17:13:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-10-19 17:15:08 +0000"
     },
     "done": true
   },
