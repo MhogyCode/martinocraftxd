@@ -1898,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-10-19 18:23:48 +0000"
@@ -1913,6 +1919,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-19 18:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
     },
     "done": true
   },
@@ -1970,6 +1982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-10-19 18:16:56 +0000"
@@ -2003,6 +2021,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-10-19 18:40:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-10-19 18:49:14 +0000"
     },
     "done": true
   },
@@ -2264,6 +2288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
+    },
+    "done": true
+  },
   "regrowth:rgroot/teardown": {
     "criteria": {
       "has_wall": "2024-10-19 18:42:57 +0000"
@@ -2282,6 +2312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-10-19 18:15:45 +0000"
@@ -2291,6 +2327,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2024-10-19 18:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
     },
     "done": true
   },
@@ -2357,6 +2399,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-10-19 18:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-10-19 18:43:54 +0000"
     },
     "done": true
   },

@@ -1054,3 +1054,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 18:27:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> porno de gael
 [19Oct2024 18:27:32.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> buscar
 [19Oct2024 18:36:32.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[19Oct2024 18:52:47.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[19Oct2024 18:55:20.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Nolan'/3517, l='ServerLevel[world]', x=-518.89, y=65.00, z=323.47] died: Nolan was slain by martinomascapito
+[19Oct2024 18:55:23.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Riley'/14065, l='ServerLevel[world]', x=-515.63, y=64.00, z=325.41] died: Riley was slain by martinomascapito
+[19Oct2024 18:55:25.063] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Fidelia'/14208, l='ServerLevel[world]', x=-520.70, y=64.00, z=328.70] died: Fidelia was slain by martinomascapito
+[19Oct2024 18:55:45.525] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tomasa'/3519, l='ServerLevel[world]', x=-524.70, y=65.00, z=315.70] died: Tomasa was slain by MhogySanBro
+[19Oct2024 18:56:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro was slain by Pierre
+[19Oct2024 18:56:20.283] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[19Oct2024 18:56:26.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Terrence'/3516, l='ServerLevel[world]', x=-494.62, y=63.00, z=313.45] died: Terrence was slain by martinomascapito
+[19Oct2024 18:56:36.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kristopher'/3512, l='ServerLevel[world]', x=-495.62, y=63.00, z=318.66] died: Kristopher was slain by MhogySanBro
+[19Oct2024 18:56:41.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Veda'/11838, l='ServerLevel[world]', x=-497.84, y=64.00, z=315.75] died: Veda was slain by MhogySanBro
+[19Oct2024 18:56:46.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito was shot by Isabelle
+[19Oct2024 18:56:46.571] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[19Oct2024 18:56:57.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Pierre'/3521, l='ServerLevel[world]', x=-492.70, y=59.11, z=321.70] died: Pierre was slain by martinomascapito
+[19Oct2024 18:57:05.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isabelle'/3518, l='ServerLevel[world]', x=-492.70, y=59.14, z=321.38] died: Isabelle was slain by MhogySanBro
