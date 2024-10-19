@@ -1043,3 +1043,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 18:12:18.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Pic-A-Nic Basket?]
 [19Oct2024 18:12:28.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Pic-A-Nic Basket?]
 [19Oct2024 18:13:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xaero-waypoint:casa:C:-513:64:323:14:false:0:Internal-overworld-waypoints
+[19Oct2024 18:18:13.061] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[19Oct2024 18:18:47.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[19Oct2024 18:22:52.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito was slain by Grizzly Bear
+[19Oct2024 18:22:52.720] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[19Oct2024 18:22:58.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -522.500000, 64.500000, 349.500000]
+[19Oct2024 18:27:22.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xzzzzz
+[19Oct2024 18:27:23.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> zzzzz
