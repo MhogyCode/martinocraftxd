@@ -1044,3 +1044,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 23:19:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> foto pene
 [19Oct2024 23:19:39.117] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [19Oct2024 23:23:01.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -601.500000, 75.500000, 312.500000]
+[19Oct2024 23:25:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -512.500000, 64.500000, 326.500000]
+[19Oct2024 23:27:05.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Safe Haven]
+[19Oct2024 23:27:16.339] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Oct2024 23:27:16.340] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Oct2024 23:27:16.340] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Oct2024 23:27:16.340] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Oct2024 23:27:16.341] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[19Oct2024 23:27:19.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Call For Adventure]
+[19Oct2024 23:27:20.078] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[19Oct2024 23:27:31.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[19Oct2024 23:27:31.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11525ms or 230 ticks behind
+[19Oct2024 23:29:03.850] [Worker-Main-25/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[19Oct2024 23:29:42.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -509.500000, 66.500000, 333.500000]
+[19Oct2024 23:29:44.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -601.500000, 75.500000, 312.500000]
+[19Oct2024 23:34:52.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -512.500000, 64.500000, 326.500000]
+[19Oct2024 23:37:35.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[19Oct2024 23:37:35.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[19Oct2024 23:37:46.335] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/127.215.122.65:51463] logged in with entity id 15615 at (-449.8615891275628, -5.0, 1786.1248710280768)
+[19Oct2024 23:37:46.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[19Oct2024 23:39:45.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
+[19Oct2024 23:39:45.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[19Oct2024 23:40:07.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 327.500000]
+[19Oct2024 23:40:07.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5453ms or 109 ticks behind
+[19Oct2024 23:40:13.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[19Oct2024 23:40:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
