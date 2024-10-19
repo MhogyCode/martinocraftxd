@@ -496,6 +496,7 @@
       "minecraft:skeleton": "2024-10-19 17:15:58 +0000",
       "minecraft:vindicator": "2024-10-19 17:54:31 +0000",
       "minecraft:spider": "2024-10-19 17:33:07 +0000",
+      "minecraft:zombified_piglin": "2024-10-19 19:32:09 +0000",
       "minecraft:zombie": "2024-10-19 17:13:37 +0000"
     },
     "done": false
@@ -1976,6 +1977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-19 19:32:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-10-19 18:57:27 +0000"
@@ -2309,6 +2316,12 @@
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-10-19 18:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-10-19 19:32:10 +0000"
     },
     "done": true
   },

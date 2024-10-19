@@ -1082,3 +1082,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [19Oct2024 19:27:16.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -563.500000, -54.500000, 387.500000]
 [19Oct2024 19:27:32.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Ice Bucket Challenge]
 [19Oct2024 19:28:05.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -512.500000, 64.500000, 323.500000]
+[19Oct2024 19:28:57.827] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[19Oct2024 19:29:11.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [We Need to Go Deeper]
+[19Oct2024 19:29:11.233] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/integration/stages/StageHelper
+[19Oct2024 19:29:31.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 33493ms or 669 ticks behind
+[19Oct2024 19:29:48.658] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[19Oct2024 19:29:56.946] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[19Oct2024 19:30:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Nightmare Fuel]
+[19Oct2024 19:32:43.445] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chrisgli/gemsnjewels/items/GemType
+[19Oct2024 19:33:28.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[19Oct2024 19:36:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -512.500000, 64.500000, 323.500000]
+[19Oct2024 19:36:46.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [What a Deal!]
