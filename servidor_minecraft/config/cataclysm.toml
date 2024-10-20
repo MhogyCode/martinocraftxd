@@ -1,4 +1,12 @@
 
+[Wadjet]
+	#Wadjet's Health Multiplier
+	#Range: 0.0 ~ 1000000.0
+	WadjetHealthMultiplier = 1.0
+	#Wadjet's Damage Multiplier
+	#Range: 0.0 ~ 1000000.0
+	WadjetDamageMultiplier = 1.0
+
 [Etc]
 	#Lava Opacity for the Ignitium Helemt.
 	#Range: 0.01 ~ 1.0
@@ -383,14 +391,6 @@
 	#Kobolediator's Damage Multiplier
 	#Range: 0.0 ~ 1000000.0
 	KobolediatorDamageMultiplier = 1.0
-
-[Wadjet]
-	#Wadjet's Health Multiplier
-	#Range: 0.0 ~ 1000000.0
-	WadjetHealthMultiplier = 1.0
-	#Wadjet's Damage Multiplier
-	#Range: 0.0 ~ 1000000.0
-	WadjetDamageMultiplier = 1.0
 
 [Aptrgangr]
 	#Aptrgangr's Health Multiplier
