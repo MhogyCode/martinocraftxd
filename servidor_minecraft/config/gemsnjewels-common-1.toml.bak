@@ -1,2 +1,4 @@
+#Whether tooltips are shown
 showTooltips = true
+showStatTrackers = true
 
