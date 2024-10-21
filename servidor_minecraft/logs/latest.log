@@ -1109,3 +1109,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 21:27:42.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Heath'/35171, l='ServerLevel[world]', x=-508.30, y=68.00, z=326.44] died, message: 'Heath burned to death'
 [21Oct2024 21:27:42.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Heath'/35171, l='ServerLevel[world]', x=-508.30, y=68.00, z=326.44] died: Heath burned to death
 [21Oct2024 21:27:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Gamerule randomTickSpeed is now set to: 0]
+[21Oct2024 21:36:44.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Gave 2 [TNT] to martinomascapito]
+[21Oct2024 21:38:11.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 21:39:47.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=96, z=15} BlockPos{x=-101, y=97, z=15}
+[21Oct2024 21:39:47.342] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=96, z=15} BlockPos{x=-101, y=97, z=15}
+[21Oct2024 21:39:47.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-101, y=96, z=15} BlockPos{x=-101, y=97, z=15}
+[21Oct2024 21:40:32.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-132, y=151, z=-4} BlockPos{x=-131, y=152, z=-4}
+[21Oct2024 21:40:33.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-132, y=151, z=-4} BlockPos{x=-131, y=152, z=-4}
+[21Oct2024 21:41:04.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=195, z=-4} BlockPos{x=-84, y=196, z=-4}
+[21Oct2024 21:41:04.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=196, z=-4} BlockPos{x=-84, y=196, z=-4}
+[21Oct2024 21:41:07.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=198, z=-4} BlockPos{x=-82, y=198, z=-4}
