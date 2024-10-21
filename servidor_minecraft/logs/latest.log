@@ -1092,3 +1092,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 21:19:47.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
 [21Oct2024 21:20:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
 [21Oct2024 21:20:30.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[21Oct2024 21:22:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 21:23:02.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[21Oct2024 21:24:09.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro was frozen to death by martinomascapito
+[21Oct2024 21:24:09.422] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[21Oct2024 21:25:56.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro was kicked for floating too long!
+[21Oct2024 21:25:56.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Flying is not enabled on this server
+[21Oct2024 21:25:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[21Oct2024 21:26:05.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:49936] logged in with entity id 86338 at (-475.8932881172199, 65.2083555044353, 321.91194298832323)
+[21Oct2024 21:26:05.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[21Oct2024 21:26:21.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro was kicked for floating too long!
+[21Oct2024 21:26:21.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Flying is not enabled on this server
+[21Oct2024 21:26:21.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[21Oct2024 21:27:33.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chantal'/35174, l='ServerLevel[world]', x=-508.50, y=68.00, z=328.50] died, message: 'Chantal went up in flames'
+[21Oct2024 21:27:33.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chantal'/35174, l='ServerLevel[world]', x=-508.50, y=68.00, z=328.50] died: Chantal went up in flames
+[21Oct2024 21:27:42.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Heath'/35171, l='ServerLevel[world]', x=-508.30, y=68.00, z=326.44] died, message: 'Heath burned to death'
+[21Oct2024 21:27:42.511] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Heath'/35171, l='ServerLevel[world]', x=-508.30, y=68.00, z=326.44] died: Heath burned to death
+[21Oct2024 21:27:44.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Gamerule randomTickSpeed is now set to: 0]
