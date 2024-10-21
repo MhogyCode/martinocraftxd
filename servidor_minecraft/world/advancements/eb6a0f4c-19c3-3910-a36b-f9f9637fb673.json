@@ -604,7 +604,8 @@
     "criteria": {
       "cooked_beef": "2024-10-19 17:50:00 +0000",
       "baked_potato": "2024-10-19 17:14:17 +0000",
-      "bread": "2024-10-19 17:08:22 +0000"
+      "bread": "2024-10-19 17:08:22 +0000",
+      "beetroot": "2024-10-21 16:15:41 +0000"
     },
     "done": false
   },
@@ -4039,6 +4040,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-10-21 15:14:52 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2024-10-21 15:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-10-21 15:23:41 +0000"
@@ -4063,12 +4076,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2024-10-21 15:46:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-21 15:23:41 +0000"
@@ -4087,12 +4094,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2024-10-21 15:41:08 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/vindicator_trophy": {
     "criteria": {
       "has_vindicator_trophy": "2024-10-21 15:23:41 +0000"
@@ -4105,21 +4106,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-10-21 15:14:52 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/pillager_trophy": {
     "criteria": {
       "has_pillager_trophy": "2024-10-21 15:23:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fancy_painting": {
-    "criteria": {
-      "has_fancy_painting": "2024-10-21 15:17:47 +0000"
     },
     "done": true
   },
@@ -4138,12 +4127,6 @@
   "handcrafted:recipes/misc/stone_corner_trim": {
     "criteria": {
       "has_stone_corner_trim": "2024-10-21 15:23:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-10-21 15:41:08 +0000"
     },
     "done": true
   },
@@ -4177,18 +4160,6 @@
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-10-21 15:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-10-21 15:41:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-10-21 15:23:41 +0000"
@@ -4210,6 +4181,102 @@
   "handcrafted:recipes/misc/stone_pillar_trim": {
     "criteria": {
       "has_stone_pillar_trim": "2024-10-21 15:23:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-10-21 15:26:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-10-21 15:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-10-21 15:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-10-21 15:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2024-10-21 15:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-10-21 16:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-10-21 16:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:15:50 +0000"
     },
     "done": true
   },

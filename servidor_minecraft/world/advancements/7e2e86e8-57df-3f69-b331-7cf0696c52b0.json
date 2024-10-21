@@ -2848,7 +2848,8 @@
   },
   "tombstone:adventure/expert_tasting": {
     "criteria": {
-      "eat_lollipop_3": "2024-10-20 22:41:05 +0000"
+      "eat_lollipop_3": "2024-10-20 22:41:05 +0000",
+      "eat_lollipop_2": "2024-10-21 16:07:37 +0000"
     },
     "done": false
   },
@@ -3244,15 +3245,105 @@
     },
     "done": false
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-10-21 16:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglin_outpost": {
     "criteria": {
       "nova_structures:piglin_outstation": "2024-10-21 16:03:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-10-21 16:11:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-10-21 16:11:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2024-10-21 16:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-10-21 16:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-10-21 16:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-10-21 16:08:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-10-21 16:07:09 +0000"
     },
     "done": true
   },

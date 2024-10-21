@@ -964,3 +964,39 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 16:09:46.161] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [21Oct2024 16:09:46.173] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [21Oct2024 16:09:49.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:12:01.421] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/127.215.122.65:52809] logged in with entity id 6777 at (246.69999998807907, 15.0, 549.3990676125562)
+[21Oct2024 16:12:01.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[21Oct2024 16:12:03.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
+[21Oct2024 16:12:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:12:06.614] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[21Oct2024 16:12:46.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[21Oct2024 16:14:01.638] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/integration/stages/StageHelper
+[21Oct2024 16:14:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 16:14:06.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4126ms or 82 ticks behind
+[21Oct2024 16:15:59.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:16:20.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro burned to death
+[21Oct2024 16:16:20.063] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[21Oct2024 16:16:20.083] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[21Oct2024 16:16:22.651] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[21Oct2024 16:16:43.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[21Oct2024 16:16:43.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[21Oct2024 16:16:55.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/127.215.122.65:40113] logged in with entity id 12571 at (-515.5042356935979, 64.5625, 337.5384055017588)
+[21Oct2024 16:16:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[21Oct2024 16:17:00.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[21Oct2024 16:17:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -66.500000, 32.500000, 50.500000]
+[21Oct2024 16:18:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 16:19:17.730] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[21Oct2024 16:19:17.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[21Oct2024 16:19:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [This Boat Has Legs]
+[21Oct2024 16:19:30.064] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[21Oct2024 16:19:30.287] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[21Oct2024 16:19:30.289] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[21Oct2024 16:19:45.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 16:20:07.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:20:15.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:20:19.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:21:02.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [A Terrible Fortress]
+[21Oct2024 16:21:08.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 16:21:22.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported martinomascapito to MhogySanBro]
+[21Oct2024 16:21:22.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [A Terrible Fortress]
+[21Oct2024 16:21:28.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
