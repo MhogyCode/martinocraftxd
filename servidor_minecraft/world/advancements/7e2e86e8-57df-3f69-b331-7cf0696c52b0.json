@@ -494,6 +494,7 @@
     "criteria": {
       "minecraft:pillager": "2024-10-19 17:01:36 +0000",
       "minecraft:skeleton": "2024-10-19 17:15:58 +0000",
+      "minecraft:hoglin": "2024-10-21 20:05:58 +0000",
       "minecraft:vindicator": "2024-10-19 17:54:31 +0000",
       "minecraft:spider": "2024-10-19 17:33:07 +0000",
       "minecraft:piglin_brute": "2024-10-21 16:05:02 +0000",
@@ -1188,6 +1189,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-21 20:11:04 +0000",
       "cooked_beef": "2024-10-19 17:15:20 +0000",
       "bread": "2024-10-19 17:11:15 +0000",
       "golden_carrot": "2024-10-21 15:26:30 +0000",
@@ -2849,6 +2851,7 @@
   "tombstone:adventure/expert_tasting": {
     "criteria": {
       "eat_lollipop_3": "2024-10-20 22:41:05 +0000",
+      "eat_lollipop_4": "2024-10-21 20:08:27 +0000",
       "eat_lollipop_2": "2024-10-21 16:07:37 +0000",
       "eat_lollipop_5": "2024-10-21 16:24:26 +0000"
     },
@@ -3646,6 +3649,96 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-10-21 19:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-10-21 20:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-21 20:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-10-21 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-10-21 20:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-10-21 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-10-21 20:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-10-21 20:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-10-21 20:07:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-10-21 20:08:47 +0000"
     },
     "done": true
   },
