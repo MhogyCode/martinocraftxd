@@ -1057,3 +1057,143 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 23:35:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
 [21Oct2024 23:36:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
 [21Oct2024 23:36:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:41:02.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[21Oct2024 23:41:28.048] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemLollipop$ModelColor
+[21Oct2024 23:43:18.675] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-78, y=23, z=-49}
+[21Oct2024 23:43:18.676] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-77, y=23, z=-49}
+[21Oct2024 23:43:18.676] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-76, y=23, z=-49}
+[21Oct2024 23:43:18.676] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-78, y=24, z=-49}
+[21Oct2024 23:43:18.676] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-77, y=24, z=-49}
+[21Oct2024 23:43:18.676] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-76, y=24, z=-49}
+[21Oct2024 23:43:18.678] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-75, y=23, z=-49}
+[21Oct2024 23:43:18.678] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-75, y=24, z=-49}
+[21Oct2024 23:43:18.725] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-74, y=23, z=-49}
+[21Oct2024 23:43:18.725] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-74, y=24, z=-49}
+[21Oct2024 23:43:18.729] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-76, y=25, z=-49}
+[21Oct2024 23:43:18.729] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-75, y=25, z=-49}
+[21Oct2024 23:43:18.729] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-74, y=25, z=-49}
+[21Oct2024 23:43:18.730] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-76, y=26, z=-49}
+[21Oct2024 23:43:18.730] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-75, y=26, z=-49}
+[21Oct2024 23:43:18.731] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-74, y=26, z=-49}
+[21Oct2024 23:43:18.774] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-77, y=25, z=-49}
+[21Oct2024 23:43:18.774] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-77, y=26, z=-49}
+[21Oct2024 23:43:35.926] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-93, y=26, z=-49}
+[21Oct2024 23:43:35.926] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-92, y=26, z=-49}
+[21Oct2024 23:43:35.926] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-94, y=27, z=-49}
+[21Oct2024 23:43:35.927] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-93, y=27, z=-49}
+[21Oct2024 23:43:35.927] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-92, y=27, z=-49}
+[21Oct2024 23:43:35.927] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-91, y=26, z=-49}
+[21Oct2024 23:43:35.927] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-91, y=27, z=-49}
+[21Oct2024 23:43:35.928] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-94, y=28, z=-49}
+[21Oct2024 23:43:35.928] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-93, y=28, z=-49}
+[21Oct2024 23:43:35.928] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-92, y=28, z=-49}
+[21Oct2024 23:43:35.977] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-91, y=28, z=-49}
+[21Oct2024 23:43:35.977] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-93, y=29, z=-49}
+[21Oct2024 23:43:35.978] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:magma_block}
+Tool: 1 netherite_pickaxe
+Pos: BlockPos{x=-92, y=29, z=-49}
+[21Oct2024 23:44:51.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -66.500000, 32.500000, 50.500000]
+[21Oct2024 23:45:17.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[21Oct2024 23:45:17.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[21Oct2024 23:45:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:45:41.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd}
+[21Oct2024 23:46:03.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:46:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:46:24.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:50556] logged in with entity id 20798 at (-141.26641812247124, 9.0, 2.8784260213849753)
+[21Oct2024 23:46:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[21Oct2024 23:47:19.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[21Oct2024 23:48:39.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:48:47.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:48:57.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:49:00.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/chrisgli/gemsnjewels/items/GemType
