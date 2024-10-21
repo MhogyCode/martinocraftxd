@@ -1071,3 +1071,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 20:49:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xaero-waypoint:casa:C:-512:64:319:7:false:0:Internal-overworld-waypoints
 [21Oct2024 20:49:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
 [21Oct2024 20:50:07.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -511.500000, 64.500000, 319.500000]
+[21Oct2024 20:51:49.546] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[21Oct2024 20:52:26.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Crafting a New Look]
+[21Oct2024 20:55:50.794] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[21Oct2024 20:56:21.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Mutual Aid]
+[21Oct2024 20:56:50.788] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player MhogySanBro just tried to change non-editable sign
+[21Oct2024 20:57:35.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Hot Stuff]
+[21Oct2024 20:58:01.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xaero-waypoint:casa:C:-512:64:319:7:false:0:Internal-overworld-waypoints
+[21Oct2024 20:58:03.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 21:00:28.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
