@@ -2959,31 +2959,30 @@ tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
-1
-[2J8[0mplayit (v0.15.26): 1729535788264 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729536069546 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
-[2J8[0mplayit (v0.15.26): 1729535791359 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729536072616 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
-[2J8[0mplayit (v0.15.26): 1729535794439 tunnel running, 0 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729536087797 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
-[2J8[0mplayit (v0.15.26): 1729535797535 tunnel running, 0 tunnels registered
+[2J8[0mplayit (v0.15.26): 1729536090867 tunnel running, 0 tunnels registered
 
 
 TUNNELS
 tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
-[2J8[0mplayit (v0.15.26): 1729535800614 tunnel running, 0 tunnels registered
 
-
-TUNNELS
 tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
 [2J8[0mplayit (v0.15.26): 1729535803743 tunnel running, 0 tunnels registered
 
@@ -3253,3 +3252,26 @@ tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729536068906 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
+[2J8[0mplayit (v0.15.26): 1729536071966 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
+[2J8[0mplayit (v0.15.26): 1729536075029 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1729536090151 tunnel running, 0 tunnels registered
+
+
+TUNNELS
+tunnel pending (disabled): https://playit.gg/account/tunnels/4f4508ed-a4be-4d85-b160-f6948ff61211
