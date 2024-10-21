@@ -1,4 +1,6 @@
-"guard stuff" = {}
+
+["golem stuff"]
+	"Allow Iron Golems to float on water?" = true
 
 ["raids and illagers"]
 	#Illagers In Raids Attack Animals?
@@ -29,10 +31,8 @@
 	#This makes villagers run from polar bears, as anyone with common sense would.
 	"Have Villagers have some common sense?" = true
 
-["golem stuff"]
-	"Allow Iron Golems to float on water?" = true
-
-llow the player to right click on bells to mass order guards to follow them?" = true
+["guard stuff"]
+	"Allow the player to right click on bells to mass order guards to follow them?" = true
 	"Have guards patrol the village regularly?" = false
 	#Range: -999.9000244140625 ~ 999.0
 	"Chance to drop equipment" = 100.0

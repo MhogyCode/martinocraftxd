@@ -1,13 +1,13 @@
-2024/10/21 16:58:21 logtail started
-2024/10/21 16:58:21 Program starting: v1.68.1-tf02ad8397-g8f9cb4763, Go 1.22.4: []string{"./tailscaled"}
-2024/10/21 16:58:21 LogID: 73287c852d9b10e05cf130f6dc61d3a5b59d63471bed5aaf8913c676d817e142
-2024/10/21 16:58:21 logpolicy: using system state directory "/var/lib/tailscale"
-2024/10/21 16:58:21 dns: [rc=resolvconf resolvconf=no ret=direct]
-2024/10/21 16:58:21 dns: using "direct" mode
-2024/10/21 16:58:21 dns: using *dns.directManager
-2024/10/21 16:58:21 rename of "/etc/resolv.pre-tailscale-backup.conf" to "/etc/resolv.conf" failed (rename /etc/resolv.pre-tailscale-backup.conf /etc/resolv.conf: device or resource busy), falling back to copy+delete
-2024/10/21 16:58:21 restarting systemd-resolved...
-2024/10/21 16:58:21 restarted systemd-resolved
-2024/10/21 16:58:21 flushing log.
-2024/10/21 16:58:21 logger closing down
-2024/10/21 16:58:21 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use
+2024/10/21 18:07:39 logtail started
+2024/10/21 18:07:39 Program starting: v1.68.1-tf02ad8397-g8f9cb4763, Go 1.22.4: []string{"./tailscaled"}
+2024/10/21 18:07:39 LogID: 73287c852d9b10e05cf130f6dc61d3a5b59d63471bed5aaf8913c676d817e142
+2024/10/21 18:07:39 logpolicy: using system state directory "/var/lib/tailscale"
+2024/10/21 18:07:39 dns: [rc=resolvconf resolvconf=no ret=direct]
+2024/10/21 18:07:39 dns: using "direct" mode
+2024/10/21 18:07:39 dns: using *dns.directManager
+2024/10/21 18:07:39 rename of "/etc/resolv.pre-tailscale-backup.conf" to "/etc/resolv.conf" failed (rename /etc/resolv.pre-tailscale-backup.conf /etc/resolv.conf: device or resource busy), falling back to copy+delete
+2024/10/21 18:07:39 restarting systemd-resolved...
+2024/10/21 18:07:39 restarted systemd-resolved
+2024/10/21 18:07:39 flushing log.
+2024/10/21 18:07:39 logger closing down
+2024/10/21 18:07:39 safesocket.Listen: /var/run/tailscale/tailscaled.sock: address already in use

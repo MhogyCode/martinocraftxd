@@ -1,4 +1,3 @@
-inventoryButton = {}
 
 [restrictions]
 	#If enabled, only creative players can place, edit or break waystones. This does NOT disable the crafting recipe.
@@ -84,4 +83,51 @@ inventoryButton = {}
 	#The cooldown between usages of the inventory button in seconds.
 	#Range: > -2147483648
 	inventoryButtonCooldown = 300
+
+[inventoryButton]
+	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
+	inventoryButton = ""
+	#The x position of the warp button in the inventory.
+	#Range: > -2147483648
+	warpButtonX = 58
+	#The y position of the warp button in the inventory.
+	#Range: > -2147483648
+	warpButtonY = 60
+	#The y position of the warp button in the creative menu.
+	#Range: > -2147483648
+	creativeWarpButtonX = 88
+	#The y position of the warp button in the creative menu.
+	#Range: > -2147483648
+	creativeWarpButtonY = 33
+
+[worldGen]
+	#Set to 'DEFAULT' to only generate the normally textured waystones. Set to 'MOSSY' or 'SANDY' to generate all as that variant. Set to 'BIOME' to make the style depend on the biome it is generated in.
+	#Allowed Values: DEFAULT, MOSSY, SANDY, BIOME
+	worldGenStyle = "BIOME"
+	#Approximate chunk distance between waystones generated freely in world generation. Set to 0 to disable generation.
+	#Range: > -2147483648
+	frequency = 25
+	#List of dimensions that waystones are allowed to spawn in through world gen. If left empty, all dimensions except those in worldGenDimensionDenyList are used.
+	dimensionAllowList = ["minecraft:overworld", "minecraft:the_nether", "minecraft:the_end"]
+	#List of dimensions that waystones are not allowed to spawn in through world gen. Only used if worldGenDimensionAllowList is empty.
+	dimensionDenyList = []
+	#Set to 'PRESET_FIRST' to first use names from the custom names list. Set to 'PRESET_ONLY' to use only those custom names. Set to 'MIXED' to have some waystones use custom names, and others random names.
+	#Allowed Values: PRESET_FIRST, RANDOM_ONLY, PRESET_ONLY, MIXED
+	nameGenerationMode = "PRESET_FIRST"
+	#These names will be used for the PRESET name generation mode. See the nameGenerationMode option for more info.
+	customWaystoneNames = []
+	#Set to true if waystones should be added to the generation of villages. Some villages may still spawn without a waystone.
+	spawnInVillages = true
+	#Ensures that pretty much every village will have a waystone, by spawning it as early as possible. In addition, this means waystones will generally be located in the center of the village.
+	forceSpawnInVillages = false
+
+[client]
+	#If enabled, the text overlay on waystones will no longer always render at full brightness.
+	disableTextGlow = false
+
+[compatibility]
+	#If enabled, JourneyMap waypoints will be created for each activated waystone.
+	displayWaystonesOnJourneyMap = true
+	#If enabled, JourneyMap waypoints will only be created if the mod 'JourneyMap Integration' is not installed
+	preferJourneyMapIntegration = true
 
