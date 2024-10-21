@@ -1034,3 +1034,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 19:27:09.728] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
 [21Oct2024 19:28:03.412] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
 [21Oct2024 19:28:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[21Oct2024 19:30:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 19:31:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Local Brewery]
+[21Oct2024 19:31:57.207] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[21Oct2024 19:35:18.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 19:36:35.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=13, z=45} BlockPos{x=-139, y=15, z=46}
+[21Oct2024 19:37:50.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Timed out
+[21Oct2024 19:37:50.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[21Oct2024 19:37:56.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Timed out
+[21Oct2024 19:37:56.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game

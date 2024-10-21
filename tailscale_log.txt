@@ -180,3 +180,126 @@ Perhaps ip6tables or your kernel needs to be upgraded.
 2024/10/21 19:28:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
 2024/10/21 19:28:45 Accept: TCP{100.115.174.104:49893 > 100.87.137.87:25565} 68 tcp non-syn
 2024/10/21 19:28:55 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 46 ok out
+2024/10/21 19:29:05 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:29:10 magicsock: closing connection to derp-11 (idle), age 1m0s
+2024/10/21 19:29:10 magicsock: 1 active derp conns: derp-1=cr10m0s,wr8m0s
+2024/10/21 19:29:13 magicsock: adding connection to derp-11 for [b8yS4]
+2024/10/21 19:29:13 magicsock: 2 active derp conns: derp-1=cr10m0s,wr8m0s derp-11=cr0s,wr0s
+2024/10/21 19:29:13 derphttp.Client.Send: connecting to derp-11 (sao)
+2024/10/21 19:29:13 magicsock: derp-11 connected; connGen=1
+2024/10/21 19:29:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:29:25 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:29:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 63 ok out
+2024/10/21 19:29:45 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:29:55 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:30:05 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:30:13 magicsock: closing connection to derp-11 (idle), age 1m0s
+2024/10/21 19:30:13 magicsock: 1 active derp conns: derp-1=cr11m0s,wr9m0s
+2024/10/21 19:30:15 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:30:16 magicsock: adding connection to derp-11 for [b8yS4]
+2024/10/21 19:30:16 magicsock: 2 active derp conns: derp-1=cr12m0s,wr9m0s derp-11=cr0s,wr0s
+2024/10/21 19:30:16 derphttp.Client.Send: connecting to derp-11 (sao)
+2024/10/21 19:30:16 magicsock: derp-11 connected; connGen=1
+2024/10/21 19:30:25 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 53 ok out
+2024/10/21 19:30:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:30:45 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:30:55 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:31:05 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:31:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 65 ok out
+2024/10/21 19:31:16 magicsock: closing connection to derp-11 (idle), age 1m0s
+2024/10/21 19:31:16 magicsock: 1 active derp conns: derp-1=cr13m0s,wr10m0s
+2024/10/21 19:31:19 magicsock: adding connection to derp-11 for [b8yS4]
+2024/10/21 19:31:19 magicsock: 2 active derp conns: derp-1=cr13m0s,wr10m0s derp-11=cr0s,wr0s
+2024/10/21 19:31:19 derphttp.Client.Send: connecting to derp-11 (sao)
+2024/10/21 19:31:19 magicsock: derp-11 connected; connGen=1
+2024/10/21 19:31:25 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:31:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:31:45 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:31:55 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 85 ok out
+2024/10/21 19:32:05 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 85 ok out
+2024/10/21 19:32:15 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:32:19 magicsock: closing connection to derp-11 (idle), age 1m0s
+2024/10/21 19:32:19 magicsock: 1 active derp conns: derp-1=cr14m0s,wr11m0s
+2024/10/21 19:32:25 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:32:35 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:32:45 Accept: TCP{100.115.174.104:49893 > 100.87.137.87:25565} 76 tcp non-syn
+2024/10/21 19:32:55 Accept: TCP{100.115.174.104:49893 > 100.87.137.87:25565} 76 tcp non-syn
+2024/10/21 19:33:05 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:33:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:33:25 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 51 ok out
+2024/10/21 19:33:35 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:33:45 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 1280 ok out
+2024/10/21 19:33:55 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 58 ok out
+2024/10/21 19:34:05 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 53 ok out
+2024/10/21 19:34:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:34:25 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:34:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 65 ok out
+2024/10/21 19:34:45 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:34:55 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 46 ok out
+2024/10/21 19:35:05 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 52 ok out
+2024/10/21 19:35:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:35:25 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:35:35 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:35:45 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:35:55 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:36:05 Accept: TCP{100.94.188.24:52825 > 100.87.137.87:25565} 52 tcp non-syn
+2024/10/21 19:36:15 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 84 ok out
+2024/10/21 19:36:25 Accept: TCP{100.115.174.104:49893 > 100.87.137.87:25565} 40 tcp non-syn
+2024/10/21 19:36:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 64 ok out
+2024/10/21 19:36:46 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 1280 ok out
+2024/10/21 19:36:49 magicsock: adding connection to derp-11 for [b8yS4]
+2024/10/21 19:36:49 magicsock: 2 active derp conns: derp-1=cr18m0s,wr1s derp-11=cr0s,wr0s
+2024/10/21 19:36:49 derphttp.Client.Recv: connecting to derp-11 (sao)
+2024/10/21 19:36:49 magicsock: derp-11 connected; connGen=1
+2024/10/21 19:37:04 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 1280 ok out
+2024/10/21 19:37:06 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:07 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 1263 ok out
+2024/10/21 19:37:11 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:11 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:16 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:16 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:21 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:22 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:26 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:27 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:27 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:37:29 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 1280 ok out
+2024/10/21 19:37:35 Accept: TCP{100.87.137.87:25565 > 100.94.188.24:52825} 1263 ok out
+2024/10/21 19:37:37 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:37:37 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:37 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:37 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:37:47 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:37:47 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:47 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:47 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:37:57 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:37:57 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:37:58 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:37:58 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:38:08 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:38:08 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:08 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:38:08 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:38:18 Accept: TCP{100.87.137.87:25565 > 100.115.174.104:49893} 1280 ok out
+2024/10/21 19:38:18 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:38:18 [unexpected] magicsock: derp-11 does not know about peer [b8yS4], removing route
+2024/10/21 19:38:18 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:18 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route")
+2024/10/21 19:38:25 wgengine: Reconfig: [b8yS4] changed from "discokey:cb07d71b3ce587d4d26917f8b466b9ecd6c19ac103a5debac5ab9209e46d733f" to "discokey:8c2e527df0855d4b5962399c67ea5d7e238d27d68f32962a5826a5be7997b700"
+2024/10/21 19:38:25 wgengine: Reconfig: removing session keys for 1 peers
+2024/10/21 19:38:25 wgengine: Reconfig: configuring userspace WireGuard config (with 2/2 peers)
+2024/10/21 19:38:29 [RATELIMIT] format("[unexpected] magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2024/10/21 19:38:29 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:34 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:39 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:44 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:49 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:38:54 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:00 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:05 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:10 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:15 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:20 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:25 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
+2024/10/21 19:39:31 [unexpected] magicsock: derp-11 does not know about peer [MiCId], removing route
