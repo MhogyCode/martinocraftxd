@@ -1052,3 +1052,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 20:37:29.501] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
 [21Oct2024 20:37:29.508] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
 [21Oct2024 20:37:29.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 20:40:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has made the advancement [Hot Stuff]
+[21Oct2024 20:40:49.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 20:42:52.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has completed the challenge [Cover Me in Debris]
+[21Oct2024 20:44:00.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[21Oct2024 20:44:15.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[21Oct2024 20:44:45.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 20:44:58.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 20:46:38.778] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$NoiseType
+[21Oct2024 20:46:38.779] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$RotationType3D
+[21Oct2024 20:46:38.780] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$TransformType3D
+[21Oct2024 20:46:38.780] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$FractalType
+[21Oct2024 20:46:38.781] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularDistanceFunction
+[21Oct2024 20:46:38.781] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularReturnType
+[21Oct2024 20:46:38.781] [Worker-Main-45/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$DomainWarpType
+[21Oct2024 20:47:28.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[21Oct2024 20:48:57.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has made the advancement [Spelunkage]
+[21Oct2024 20:49:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MhogySanBro> xaero-waypoint:casa:C:-512:64:319:7:false:0:Internal-overworld-waypoints
+[21Oct2024 20:49:59.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[21Oct2024 20:50:07.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -511.500000, 64.500000, 319.500000]
