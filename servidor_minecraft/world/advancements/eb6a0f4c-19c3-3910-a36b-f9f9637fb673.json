@@ -1211,6 +1211,7 @@
       "minecraft:spider": "2024-10-19 17:33:18 +0000",
       "minecraft:piglin_brute": "2024-10-20 22:05:34 +0000",
       "minecraft:zombified_piglin": "2024-10-20 22:10:12 +0000",
+      "minecraft:wither_skeleton": "2024-10-21 16:21:43 +0000",
       "minecraft:zombie": "2024-10-19 17:36:34 +0000"
     },
     "done": false
@@ -3268,7 +3269,8 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
-      "nova_structures:piglin_outstation": "2024-10-20 22:04:07 +0000"
+      "nova_structures:piglin_outstation": "2024-10-20 22:04:07 +0000",
+      "nova_structures:piglin_camp": "2024-10-21 16:19:46 +0000"
     },
     "done": false
   },
@@ -4277,6 +4279,18 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-10-21 16:15:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-10-21 16:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-10-21 16:27:12 +0000"
     },
     "done": true
   },
