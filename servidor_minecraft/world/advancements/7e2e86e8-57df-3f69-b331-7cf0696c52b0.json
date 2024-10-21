@@ -502,6 +502,7 @@
       "minecraft:zombified_piglin": "2024-10-19 19:32:09 +0000",
       "minecraft:wither_skeleton": "2024-10-21 20:21:21 +0000",
       "minecraft:piglin": "2024-10-21 16:04:09 +0000",
+      "minecraft:enderman": "2024-10-21 20:30:36 +0000",
       "minecraft:zombie": "2024-10-19 17:13:37 +0000"
     },
     "done": false
@@ -3730,6 +3731,12 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-10-21 20:19:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-10-21 20:36:25 +0000"
     },
     "done": true
   },

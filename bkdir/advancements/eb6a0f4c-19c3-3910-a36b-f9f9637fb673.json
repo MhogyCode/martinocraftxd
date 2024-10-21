@@ -602,6 +602,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-10-21 20:36:01 +0000",
       "cooked_beef": "2024-10-19 17:50:00 +0000",
       "baked_potato": "2024-10-19 17:14:17 +0000",
       "bread": "2024-10-19 17:08:22 +0000",
@@ -1209,6 +1210,7 @@
       "minecraft:pillager": "2024-10-19 18:01:14 +0000",
       "minecraft:blaze": "2024-10-20 22:18:22 +0000",
       "minecraft:skeleton": "2024-10-19 17:15:18 +0000",
+      "minecraft:hoglin": "2024-10-21 20:34:56 +0000",
       "minecraft:spider": "2024-10-19 17:33:18 +0000",
       "minecraft:piglin_brute": "2024-10-20 22:05:34 +0000",
       "minecraft:zombified_piglin": "2024-10-20 22:10:12 +0000",
@@ -4698,12 +4700,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-10-21 20:15:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-10-21 20:06:55 +0000"
@@ -4728,12 +4724,6 @@
     },
     "done": true
   },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_bridge": "2024-10-21 20:07:00 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-10-21 20:06:55 +0000"
@@ -4755,12 +4745,6 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-10-21 20:06:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2024-10-21 20:25:57 +0000"
     },
     "done": true
   },
@@ -4794,12 +4778,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2024-10-21 20:24:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-10-21 20:06:55 +0000"
@@ -4827,6 +4805,30 @@
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-10-21 20:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-10-21 20:07:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-10-21 20:15:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-10-21 20:24:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-10-21 20:25:57 +0000"
     },
     "done": true
   },
