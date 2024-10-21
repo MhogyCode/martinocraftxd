@@ -3463,5 +3463,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-10-21 17:25:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

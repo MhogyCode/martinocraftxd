@@ -1,3 +1,4 @@
+recovery = {}
 
 #Options related to player's death
 [player_death]
@@ -179,5 +180,4 @@
 	#Range: > 1
 	max_duration_magic_siphon = 10
 	#Duration of applied effects in seconds [1..MAX|default:10]
-	#Range: > 1
-	durat
+	#Ran
