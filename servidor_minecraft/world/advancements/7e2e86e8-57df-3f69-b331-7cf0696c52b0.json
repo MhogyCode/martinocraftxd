@@ -493,12 +493,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-10-19 17:01:36 +0000",
+      "minecraft:blaze": "2024-10-21 20:20:11 +0000",
       "minecraft:skeleton": "2024-10-19 17:15:58 +0000",
       "minecraft:hoglin": "2024-10-21 20:05:58 +0000",
       "minecraft:vindicator": "2024-10-19 17:54:31 +0000",
       "minecraft:spider": "2024-10-19 17:33:07 +0000",
       "minecraft:piglin_brute": "2024-10-21 16:05:02 +0000",
       "minecraft:zombified_piglin": "2024-10-19 19:32:09 +0000",
+      "minecraft:wither_skeleton": "2024-10-21 20:21:21 +0000",
       "minecraft:piglin": "2024-10-21 16:04:09 +0000",
       "minecraft:zombie": "2024-10-19 17:13:37 +0000"
     },
@@ -1192,6 +1194,7 @@
       "cooked_porkchop": "2024-10-21 20:11:04 +0000",
       "cooked_beef": "2024-10-19 17:15:20 +0000",
       "bread": "2024-10-19 17:11:15 +0000",
+      "golden_apple": "2024-10-21 20:25:15 +0000",
       "golden_carrot": "2024-10-21 15:26:30 +0000",
       "cooked_rabbit": "2024-10-19 17:38:38 +0000"
     },
@@ -3658,15 +3661,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2024-10-21 20:23:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-10-21 20:08:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-10-21 20:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2024-10-21 20:10:14 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-10-21 20:24:58 +0000"
     },
     "done": true
   },
@@ -3688,6 +3709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-10-21 20:27:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab": {
     "criteria": {
       "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
@@ -3700,15 +3727,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-10-21 20:19:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2024-10-21 20:08:47 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-21 20:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-10-21 20:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2024-10-21 20:28:02 +0000"
     },
     "done": true
   },
@@ -3730,6 +3775,18 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-10-21 20:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-10-21 20:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-10-21 20:07:06 +0000"
@@ -3739,6 +3796,18 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2024-10-21 20:08:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-10-21 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-10-21 20:20:47 +0000"
     },
     "done": true
   },
