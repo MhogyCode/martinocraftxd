@@ -2948,9 +2948,10 @@
       "minecraft:crimson_forest": "2024-10-21 15:05:30 +0000",
       "minecraft:nether_wastes": "2024-10-21 15:11:07 +0000",
       "minecraft:soul_sand_valley": "2024-10-21 15:07:35 +0000",
-      "minecraft:warped_forest": "2024-10-21 21:41:42 +0000"
+      "minecraft:warped_forest": "2024-10-21 21:41:42 +0000",
+      "minecraft:basalt_deltas": "2024-10-21 23:26:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -5296,6 +5297,12 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-10-21 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-10-21 23:34:37 +0000"
     },
     "done": true
   },

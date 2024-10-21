@@ -1011,3 +1011,49 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [21Oct2024 23:26:15.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
 [21Oct2024 23:26:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has completed the challenge [Hot Tourist Destinations]
 [21Oct2024 23:26:47.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 23:28:33.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro froze to death
+[21Oct2024 23:28:33.793] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[21Oct2024 23:28:55.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -66.500000, 32.500000, 50.500000]
+[21Oct2024 23:29:05.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> xaero-waypoint:portal:P:-67:32:50:0:false:0:Internal-the-nether-waypoints
+[21Oct2024 23:29:08.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> xaero-waypoint:techo nether:T:-100:128:-918:12:false:0:Internal-the-nether-waypoints
+[21Oct2024 23:29:20.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -99.500000, 128.500000, -917.500000]
+[21Oct2024 23:29:22.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[21Oct2024 23:29:37.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 23:29:45.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 23:29:47.787] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[21Oct2024 23:30:34.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -99.500000, 128.500000, -917.500000]
+[21Oct2024 23:31:22.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 23:31:37.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
+[21Oct2024 23:31:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:32:06.826] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21Oct2024 23:32:07.239] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$NoiseType
+[21Oct2024 23:32:07.240] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$RotationType3D
+[21Oct2024 23:32:07.240] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$TransformType3D
+[21Oct2024 23:32:07.241] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$FractalType
+[21Oct2024 23:32:07.241] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularDistanceFunction
+[21Oct2024 23:32:07.242] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularReturnType
+[21Oct2024 23:32:07.242] [Worker-Main-9/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$DomainWarpType
+[21Oct2024 23:32:07.798] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[21Oct2024 23:32:07.810] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-20 absolute-5 above bottom]
+[21Oct2024 23:32:15.237] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[21Oct2024 23:32:49.785] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[21Oct2024 23:32:49.948] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[21Oct2024 23:32:49.949] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[21Oct2024 23:32:56.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
+[21Oct2024 23:32:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[21Oct2024 23:32:56.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 49683ms or 993 ticks behind
+[21Oct2024 23:33:33.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[21Oct2024 23:33:37.152] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: martinomascapito[/100.115.174.104:51684] logged in with entity id 11569 at (-92.2359105518043, 128.0, -916.5312390097278)
+[21Oct2024 23:33:37.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito joined the game
+[21Oct2024 23:33:57.252] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21Oct2024 23:33:57.253] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[21Oct2024 23:34:02.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:34:06.923] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[21Oct2024 23:34:21.225] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[21Oct2024 23:34:32.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:34:37.030] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[21Oct2024 23:34:37.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito has completed the challenge [Subspace Bubble]
+[21Oct2024 23:35:12.587] [Server thread/INFO] [com.mactso.regrowth.utility.Utility/]: L0:enter Handle Trample Events
+[21Oct2024 23:35:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[21Oct2024 23:36:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[21Oct2024 23:36:45.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
