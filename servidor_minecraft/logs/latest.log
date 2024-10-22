@@ -998,3 +998,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 19:49:57.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -78.500000, 128.500000, -625.500000]
 [22Oct2024 19:49:59.409] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
 [22Oct2024 19:50:10.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 19:51:06.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 19:52:10.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 19:54:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 19:54:57.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito was doomed to fall
+[22Oct2024 19:54:57.365] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[22Oct2024 19:56:09.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 20:00:40.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Creative Mode]
