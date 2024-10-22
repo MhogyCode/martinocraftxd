@@ -1207,3 +1207,34 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 18:07:26.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> xaero-waypoint:techo nether nuevo lol:T:-79:128:-626:6:false:0:Internal-the-nether-waypoints
 [22Oct2024 18:07:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Set own game mode to Survival Mode]
 [22Oct2024 18:09:07.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> as
+[22Oct2024 18:10:07.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:10:42.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito moved too quickly! 0.0,-10.811513921598447,0.018923643573430127
+[22Oct2024 18:10:45.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito moved too quickly! 0.0,-12.924399078630557,0.0
+[22Oct2024 18:10:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[22Oct2024 18:10:46.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito fell from a high place
+[22Oct2024 18:10:46.172] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[22Oct2024 18:11:26.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -76.500000, 128.500000, -639.500000]
+[22Oct2024 18:11:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[22Oct2024 18:11:40.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 18:11:47.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:12:21.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[22Oct2024 18:12:52.088] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[22Oct2024 18:14:04.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:15:50.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -78.500000, 128.500000, -625.500000]
+[22Oct2024 18:16:23.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to MhogySanBro]
+[22Oct2024 18:16:41.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -0.3512392950500782,-11.841910003788229,-0.3006311600188383
+[22Oct2024 18:16:42.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:16:42.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro was doomed to fall
+[22Oct2024 18:16:42.717] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[22Oct2024 18:16:43.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[22Oct2024 18:17:03.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:17:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -76.500000, 128.500000, -639.500000]
+[22Oct2024 18:18:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 18:19:05.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -99.500000, 128.500000, -917.500000]
+[22Oct2024 18:19:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -76.500000, 128.500000, -639.500000]
+[22Oct2024 18:19:14.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro fell from a high place
+[22Oct2024 18:19:14.968] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[22Oct2024 18:20:09.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -51.500000, 225.500000, -619.500000]
+[22Oct2024 18:20:12.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro fell from a high place
+[22Oct2024 18:20:12.447] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[22Oct2024 18:20:31.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Set own game mode to Creative Mode]
