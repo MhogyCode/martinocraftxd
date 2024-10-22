@@ -5309,6 +5309,12 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-10-21 23:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-10-22 00:03:36 +0000"
@@ -5381,21 +5387,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2024-10-22 00:11:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2024-10-22 00:03:36 +0000"
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "travelled": "2024-10-21 23:34:37 +0000"
+      "ex": "2024-10-22 00:11:10 +0000"
     },
     "done": true
   },
