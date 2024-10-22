@@ -971,3 +971,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 19:27:50.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
 [22Oct2024 19:27:52.194] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
 [22Oct2024 19:27:52.196] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[22Oct2024 19:32:52.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -66.500000, 32.500000, 50.500000]
+[22Oct2024 19:32:55.500] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[22Oct2024 19:32:55.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 19:32:55.955] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[22Oct2024 19:33:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Gave 1 [Splash Uncraftable Potion] to martinomascapito]
+[22Oct2024 19:33:17.632] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Oct2024 19:33:24.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Creative Mode]
+[22Oct2024 19:34:06.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Survival Mode]
+[22Oct2024 19:34:56.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-77, y=29, z=22} BlockPos{x=-78, y=29, z=19}
+[22Oct2024 19:35:54.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -40.500000, 244.500000, -672.500000]
+[22Oct2024 19:36:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
