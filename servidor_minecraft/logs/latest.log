@@ -1146,3 +1146,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 17:34:39.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
 [22Oct2024 17:35:21.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=80, y=18, z=232} BlockPos{x=79, y=17, z=232}
 [22Oct2024 17:36:03.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=15, z=231} BlockPos{x=95, y=13, z=231}
+[22Oct2024 17:40:38.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=150, y=20, z=168} BlockPos{x=150, y=20, z=169}
+[22Oct2024 17:42:44.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[22Oct2024 17:43:20.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 17:45:59.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro has completed the challenge [Cover Me in Debris]
+[22Oct2024 17:46:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 17:46:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[22Oct2024 17:48:38.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
