@@ -1042,3 +1042,44 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 16:51:52.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
 [22Oct2024 16:51:57.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [22Oct2024 16:53:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -99.500000, 128.500000, -917.500000]
+[22Oct2024 16:57:01.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 16:57:17.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 16:57:42.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 16:57:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 16:57:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito fell from a high place
+[22Oct2024 16:57:54.527] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[22Oct2024 16:57:59.527] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[22Oct2024 16:58:03.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -7.946199526163362,0.0,-6.490119208059127
+[22Oct2024 16:58:16.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 16:58:21.296] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 16:58:21.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 16:59:02.250] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[22Oct2024 16:59:02.251] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[22Oct2024 16:59:02.257] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[22Oct2024 16:59:35.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[22Oct2024 17:00:05.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -512.500000, 64.500000, 327.500000]
+[22Oct2024 17:00:10.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 17:00:31.728] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:50743] logged in with entity id 13860 at (-61.249531119984844, 256.0, -625.1542248523928)
+[22Oct2024 17:00:31.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 17:00:37.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 17:00:57.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 17:01:06.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 9.466194774333541,1.044812420399012,-3.688263618466749
+[22Oct2024 17:01:39.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 3.4519848596950276,0.25799910351526023,9.461384916388056
+[22Oct2024 17:02:06.047] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Timed out
+[22Oct2024 17:02:06.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[22Oct2024 17:02:06.140] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: martinomascapito[/100.115.174.104:55412] logged in with entity id 14703 at (-67.5, 256.5, -637.5)
+[22Oct2024 17:02:06.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito joined the game
+[22Oct2024 17:02:10.045] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 17:02:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 17:02:19.259] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:50820] logged in with entity id 14717 at (-67.36900406737516, 256.0, -639.8221663670696)
+[22Oct2024 17:02:19.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 17:02:32.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -78.500000, 128.500000, -625.500000]
+[22Oct2024 17:02:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 17:05:21.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -1.0971858352453268,-11.305458518233962,-0.47992544492922207
+[22Oct2024 17:05:23.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 0.0,-12.153971523372604,0.0
+[22Oct2024 17:05:26.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 0.0,-12.708162068455437,0.0
+[22Oct2024 17:05:27.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro fell from a high place
+[22Oct2024 17:05:27.282] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[22Oct2024 17:06:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 17:06:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito fell from a high place
+[22Oct2024 17:06:19.363] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
