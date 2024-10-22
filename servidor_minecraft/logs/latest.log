@@ -66,3 +66,10 @@
 [22Oct2024 00:20:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to martinomascapito]
 [22Oct2024 00:20:57.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
 [22Oct2024 00:20:57.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[22Oct2024 00:21:41.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[22Oct2024 00:21:45.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[22Oct2024 00:23:29.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=59, z=302} BlockPos{x=-485, y=58, z=303}
+[22Oct2024 00:23:33.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -511.500000, 64.500000, 319.500000]
+[22Oct2024 00:27:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -99.500000, 128.500000, -917.500000]
+[22Oct2024 00:31:50.922] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Timed out
+[22Oct2024 00:31:50.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
