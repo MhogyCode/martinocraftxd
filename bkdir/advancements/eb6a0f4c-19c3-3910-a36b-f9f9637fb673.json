@@ -51,11 +51,13 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2024-10-21 15:39:09 +0000",
       "minecraft:birch_forest": "2024-10-19 16:55:06 +0000",
+      "minecraft:wooded_badlands": "2024-10-22 00:05:09 +0000",
       "minecraft:savanna_plateau": "2024-10-19 23:34:40 +0000",
       "minecraft:river": "2024-10-19 17:33:15 +0000",
       "minecraft:dripstone_caves": "2024-10-21 23:33:42 +0000",
       "minecraft:forest": "2024-10-19 17:52:26 +0000",
       "minecraft:lush_caves": "2024-10-19 17:02:43 +0000",
+      "minecraft:desert": "2024-10-22 00:04:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-19 17:00:04 +0000",
       "minecraft:meadow": "2024-10-19 23:23:50 +0000",
       "minecraft:savanna": "2024-10-19 23:20:24 +0000",

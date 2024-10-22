@@ -51,12 +51,18 @@
     "criteria": {
       "minecraft:frozen_river": "2024-10-21 23:56:18 +0000",
       "minecraft:birch_forest": "2024-10-19 16:55:26 +0000",
+      "minecraft:windswept_hills": "2024-10-22 00:02:06 +0000",
+      "minecraft:wooded_badlands": "2024-10-22 00:06:34 +0000",
+      "minecraft:beach": "2024-10-22 00:10:22 +0000",
       "minecraft:river": "2024-10-19 17:17:59 +0000",
       "minecraft:snowy_plains": "2024-10-21 23:56:55 +0000",
       "minecraft:snowy_taiga": "2024-10-21 23:56:23 +0000",
       "minecraft:forest": "2024-10-19 17:53:08 +0000",
       "minecraft:lush_caves": "2024-10-19 17:02:47 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-10-19 17:00:22 +0000"
+      "minecraft:frozen_ocean": "2024-10-22 00:02:15 +0000",
+      "minecraft:desert": "2024-10-22 00:03:07 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-10-19 17:00:22 +0000",
+      "minecraft:snowy_beach": "2024-10-22 00:02:09 +0000"
     },
     "done": false
   },
@@ -5300,6 +5306,90 @@
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-10-21 22:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-10-22 00:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-10-22 00:03:36 +0000"
     },
     "done": true
   },
