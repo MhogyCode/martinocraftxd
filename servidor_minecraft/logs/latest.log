@@ -1083,3 +1083,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 17:06:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
 [22Oct2024 17:06:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito fell from a high place
 [22Oct2024 17:06:19.363] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[22Oct2024 17:06:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 17:11:30.555] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 17:11:30.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 17:11:30.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:51171] logged in with entity id 17317 at (-527.5, 64.5625, 333.5)
+[22Oct2024 17:11:30.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 17:12:13.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -7.1035697445734485,1.0244240882136637,7.149370162233254
+[22Oct2024 17:12:49.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 4.975511900192302,0.25799910351528865,-8.850025640525814
+[22Oct2024 17:13:27.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -1.0652436143887485,0.42355929454302554,10.203492284787217
+[22Oct2024 17:13:34.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 0.11890995685742212,1.1661092609382138,10.067462240157283
+[22Oct2024 17:14:34.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -66.500000, 32.500000, 50.500000]
+[22Oct2024 17:18:00.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[22Oct2024 17:18:02.002] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 17:18:02.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 17:18:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 17:18:05.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:51210] logged in with entity id 23111 at (73.56781975318889, 15.0, 129.7275088892988)
+[22Oct2024 17:18:05.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 17:21:56.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 17:24:10.795] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/adventure/text/event/ClickEvent$Action
+[22Oct2024 17:24:10.805] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/StatisticFormatter
+[22Oct2024 17:24:10.814] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/util/FormatUtil
+[22Oct2024 17:24:10.816] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/net/Direction
+[22Oct2024 17:24:10.820] [spark-worker-pool-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/disk/DiskUsage
+[22Oct2024 17:24:47.647] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Stopping the profiler & uploading results, please wait...
+[22Oct2024 17:24:47.678] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkProtos$CommandSenderMetadata$Type
+[22Oct2024 17:24:47.681] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$ThreadDumper$Type
+[22Oct2024 17:24:47.684] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$Type
+[22Oct2024 17:24:47.685] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/proto/SparkSamplerProtos$SamplerMetadata$DataAggregator$ThreadGrouper
+[22Oct2024 17:24:47.720] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$FieldType
+[22Oct2024 17:24:47.721] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/WireFormat$JavaType
+[22Oct2024 17:24:47.738] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/WindowsWmic
+[22Oct2024 17:24:47.744] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/cpu/CpuInfo
+[22Oct2024 17:24:47.747] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/monitor/memory/MemoryInfo
+[22Oct2024 17:24:47.758] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/common/platform/serverconfig/PropertiesConfigParser
+[22Oct2024 17:24:47.770] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentTypeEvaluator$InstallationAction
+[22Oct2024 17:24:47.772] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForModularizedVm
+[22Oct2024 17:24:47.773] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForJ9Vm
+[22Oct2024 17:24:47.773] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForStandardToolsJarVm
+[22Oct2024 17:24:47.774] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForUserDefinedToolsJar
+[22Oct2024 17:24:47.775] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AttachmentProvider$ForEmulatedAttachment
+[22Oct2024 17:24:47.776] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$ProcessProvider$ForCurrentVm
+[22Oct2024 17:24:47.777] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/bytebuddy/agent/ByteBuddyAgent$AgentProvider$ForByteBuddyAgent
+[22Oct2024 17:24:48.799] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType
+[22Oct2024 17:24:48.802] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/FieldType$Collection
+[22Oct2024 17:24:48.803] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/JavaType
+[22Oct2024 17:24:48.914] [spark-worker-pool-1-thread-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting me/lucko/spark/lib/protobuf/Writer$FieldOrder
+[22Oct2024 17:24:50.701] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Profiler stopped & upload complete!
+[22Oct2024 17:24:50.702] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: https://spark.lucko.me/IVJSBpcHeY
+[22Oct2024 17:24:50.706] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.MinecraftServer/]: [⚡] Restarted the background profiler. (If you don't want this to happen, run: /spark profiler cancel)

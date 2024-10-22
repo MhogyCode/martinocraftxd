@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MhogySanBro",
+      "uniqueId": "eb6a0f4c-19c3-3910-a36b-f9f9637fb673"
+    },
+    "time": 1729617890703,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/IVJSBpcHeY"
+    }
+  }
+]
