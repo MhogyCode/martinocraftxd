@@ -53,11 +53,13 @@
       "minecraft:birch_forest": "2024-10-19 16:55:06 +0000",
       "minecraft:wooded_badlands": "2024-10-22 00:05:09 +0000",
       "minecraft:savanna_plateau": "2024-10-19 23:34:40 +0000",
+      "minecraft:beach": "2024-10-22 16:27:07 +0000",
       "minecraft:river": "2024-10-19 17:33:15 +0000",
       "minecraft:dripstone_caves": "2024-10-21 23:33:42 +0000",
       "minecraft:forest": "2024-10-19 17:52:26 +0000",
       "minecraft:lush_caves": "2024-10-19 17:02:43 +0000",
       "minecraft:desert": "2024-10-22 00:04:54 +0000",
+      "minecraft:ocean": "2024-10-22 16:26:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-10-19 17:00:04 +0000",
       "minecraft:meadow": "2024-10-19 23:23:50 +0000",
       "minecraft:savanna": "2024-10-19 23:20:24 +0000",
@@ -5182,6 +5184,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-10-22 00:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-10-22 16:28:35 +0000"
     },
     "done": true
   },
