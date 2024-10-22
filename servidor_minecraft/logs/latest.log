@@ -1007,3 +1007,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 16:32:38.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> xaero-waypoint:arriba:A:-68:256:-638:3:false:0:Internal-the-nether-waypoints
 [22Oct2024 16:32:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -78.500000, 128.500000, -625.500000]
 [22Oct2024 16:32:57.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 16:35:02.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 16:35:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 16:36:21.661] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[22Oct2024 16:36:21.680] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[22Oct2024 16:36:21.696] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[22Oct2024 16:36:21.736] [Worker-Main-21/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[22Oct2024 16:38:56.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 16:38:56.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 16:40:07.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:50135] logged in with entity id 3921 at (-72.72565277273999, 128.0, -635.8865367550632)
+[22Oct2024 16:40:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 16:42:01.295] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
+[22Oct2024 16:42:01.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
+[22Oct2024 16:42:27.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 16:42:27.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 16:46:31.893] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5601af47[id=<null>,name=MhogySanBro,properties={},legacy=false] (/100.94.188.24:50484) lost connection: Disconnected
+[22Oct2024 16:46:38.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:50489] logged in with entity id 4209 at (-84.63728227392664, 128.41999998688698, -624.3761202353625)
+[22Oct2024 16:46:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 16:47:54.199] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[22Oct2024 16:49:24.368] [Worker-Main-39/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[22Oct2024 16:49:46.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! -4.665341052454664,0.7521489003674589,-9.107944586437043
+[22Oct2024 16:49:47.402] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-151}
+[22Oct2024 16:49:47.403] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-19, y=69, z=-150}
+[22Oct2024 16:50:40.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: martinomascapito[/100.115.174.104:54922] logged in with entity id 6748 at (-64.55998995470831, 256.0, -631.112195080491)
+[22Oct2024 16:50:40.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito joined the game
+[22Oct2024 16:51:13.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro moved too quickly! 8.528561574980927,1.1767592750642422,-5.196022046580765
+[22Oct2024 16:51:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported MhogySanBro to martinomascapito]
+[22Oct2024 16:51:50.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro fell from a high place
+[22Oct2024 16:51:50.584] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[22Oct2024 16:51:50.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[22Oct2024 16:51:50.631] [Server thread/INFO] [tombstone/]: The player MhogySanBro has successfully been saved
+[22Oct2024 16:51:52.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[22Oct2024 16:51:52.355] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[22Oct2024 16:51:52.357] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[22Oct2024 16:51:57.158] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[22Oct2024 16:53:41.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MhogySanBro: Teleported MhogySanBro to -99.500000, 128.500000, -917.500000]
