@@ -1003,3 +1003,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 01:20:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Applied enchantment Efficiency V to martinomascapito's item]
 [22Oct2024 01:20:21.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Applied enchantment Silk Touch to martinomascapito's item]
 [22Oct2024 01:20:22.287] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-20 absolute-5 above bottom]
+[22Oct2024 01:20:56.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[22Oct2024 01:21:56.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -512.500000, 64.500000, 327.500000]
+[22Oct2024 01:25:46.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[22Oct2024 01:25:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <martinomascapito> asd
+[22Oct2024 01:27:12.048] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinomascapito lost connection: Disconnected
+[22Oct2024 01:27:12.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito left the game
