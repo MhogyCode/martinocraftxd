@@ -976,3 +976,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 18:38:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Survival Mode]
 [22Oct2024 18:39:47.275] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/AbortedResult
 [22Oct2024 18:40:15.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[22Oct2024 18:44:40.513] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
+[22Oct2024 18:44:40.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[22Oct2024 18:44:40.543] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[22Oct2024 18:44:40.559] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[22Oct2024 18:46:16.580] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[22Oct2024 18:47:10.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 18:47:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: martinomascapito fell from a high place
+[22Oct2024 18:47:10.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[22Oct2024 18:47:10.718] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[22Oct2024 18:47:10.762] [Server thread/INFO] [tombstone/]: The player martinomascapito has successfully been saved
+[22Oct2024 18:47:16.902] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$NoiseType
+[22Oct2024 18:47:16.905] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$RotationType3D
+[22Oct2024 18:47:16.907] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$TransformType3D
+[22Oct2024 18:47:16.909] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$FractalType
+[22Oct2024 18:47:16.911] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularDistanceFunction
+[22Oct2024 18:47:16.912] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$CellularReturnType
+[22Oct2024 18:47:16.913] [Worker-Main-23/INFO] [com.teampotato.redirector.Redirector/]: Redirecting wftech/caveoverhaul/fastnoise/FastNoiseLite$DomainWarpType
+[22Oct2024 18:47:23.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -512.500000, 64.500000, 327.500000]
+[22Oct2024 18:47:23.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[22Oct2024 18:47:23.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[22Oct2024 18:47:23.635] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[22Oct2024 18:47:23.636] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[22Oct2024 18:47:23.736] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[22Oct2024 18:47:32.149] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/ftb/mods/ftblibrary/integration/stages/StageHelper
+[22Oct2024 18:47:42.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 18:47:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Creative Mode]
+[22Oct2024 18:48:38.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Teleported martinomascapito to -67.500000, 256.500000, -637.500000]
+[22Oct2024 18:48:47.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [martinomascapito: Set own game mode to Survival Mode]
