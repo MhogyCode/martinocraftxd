@@ -1048,3 +1048,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 32
 [22Oct2024 15:48:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
 [22Oct2024 15:49:31.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:49789] logged in with entity id 10946 at (-74.33770696753469, 128.0, -622.5844620854483)
 [22Oct2024 15:49:31.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 15:50:03.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 15:50:03.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
+[22Oct2024 15:51:07.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MhogySanBro[/100.94.188.24:49823] logged in with entity id 11047 at (-77.87471296539935, 128.0, -627.4940291412477)
+[22Oct2024 15:51:07.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro joined the game
+[22Oct2024 15:55:42.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MhogySanBro lost connection: Disconnected
+[22Oct2024 15:55:42.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MhogySanBro left the game
